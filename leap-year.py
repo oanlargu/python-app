@@ -1,1 +1,2 @@
 print("mirac")
+print("deneme")
